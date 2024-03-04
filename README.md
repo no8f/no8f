@@ -1,4 +1,15 @@
-### Hi there 👋
+### Hello there
+
+Just your average Linux elitist and time waster writing dotfiles.
+
+Below are all the posts I've published (which is none, thanks Captain Obvius).
+
+✨ But fear not. ✨
+In the near future I will publish my dotfiles for Arch/Hyprland and some Utils, so this Github account is not a complete waste.
+
+Some facts about me:
+- c++/qt dev
+- IT Student at DHBW Karlsruhe
 
 <!--
 **no8f/no8f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
