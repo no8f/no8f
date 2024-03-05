@@ -2,7 +2,7 @@
 
 Just your average Linux elitist and time waster writing dotfiles.
 
-Below are all the posts I've published (which is none).
+Below are all the repos I've published (which is none).
 
 ✨ But fear not. ✨
 In the near future I will publish my dotfiles for Arch/Hyprland and some Utils, so this Github account is not a complete waste.
