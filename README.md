@@ -1,14 +1,4 @@
-### Hello there
-
-Just your average Linux elitist and time waster writing dotfiles.
-
-Below are all the repos I've published (which are shit).
-
-c++/qt dev
-
-currently im working on a fancy lightweight XMPP client for all plattforms, see you in a year when its finished lol.
-
-fun fact; the last time i touched grass was 2018
+# Her would i list my achievements, if i had any
 <!--
 **no8f/no8f** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
